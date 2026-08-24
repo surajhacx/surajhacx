@@ -62,21 +62,6 @@
 > MORE STAGES UNLOCKING SOON...
 ```
 
-<br>
-
-<div align="center">
-
-### 💾 **SAVE DATA (GITHUB STATS)**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajhacx&hide_border=true&include_all_commits=true&bg_color=000000&title_color=FF0055&text_color=FFFFFF&icon_color=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajhacx&hide_border=true&layout=compact&bg_color=000000&title_color=FF0055&text_color=FFFFFF)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=surajhacx&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
-<br>
 
 ### 🕹️ **MULTIPLAYER CO-OP (CONTACT)**
 
