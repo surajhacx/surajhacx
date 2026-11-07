@@ -26,6 +26,8 @@ suraj_theekshana
 └─# cat profile.txt
 [+] Role      : Offensive Security Researcher / Bug Bounty Hunter
 [+] Focus     : Exploit Dev, Sandbox Escapes, LPE, Deserialization, Web & Desktop Apps
+[+] Kernels   : Windows (WinDbg) | Linux | iOS (XNU)
+[+] Arch      : x86 | x64 | ARM
 [+] CVEs      : 5 assigned
 [+] Certs     : OSCP+ | OSCP | OSED | OSWP
 [+] Motto     : "If it runs, it can be broken."
@@ -112,9 +114,23 @@ suraj_theekshana
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/x86_Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41" />
+</p>
+
+<h4 align="center">⚙️ Architectures</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/x86_Assembly-0d1117?style=for-the-badge&logo=intel&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/x64_Assembly-0d1117?style=for-the-badge&logo=amd&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/ARM_Assembly-0d1117?style=for-the-badge&logo=arm&logoColor=00ff41" />
+</p>
+
+<h4 align="center">🧠 Kernel Research</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Kernel-0d1117?style=for-the-badge&logo=windows&logoColor=ff0033" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-0d1117?style=for-the-badge&logo=linux&logoColor=ff0033" />
+  <img src="https://img.shields.io/badge/iOS_Kernel_(XNU)-0d1117?style=for-the-badge&logo=apple&logoColor=ff0033" />
+  <img src="https://img.shields.io/badge/WinDbg_Kernel_Debugging-0d1117?style=for-the-badge&logo=windows&logoColor=ff0033" />
 </p>
 
 ---
