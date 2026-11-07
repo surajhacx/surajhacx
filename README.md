@@ -1,83 +1,130 @@
-<div align="center">
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a00,100:00ff41&height=200&section=header&text=SURAJ%20THEEKSHANA&fontColor=00ff41&fontSize=50&fontAlignY=38&animation=fadeIn&desc=root@hacx%20~%23&descAlignY=58&descSize=18" />
+</p>
 
-![Retro Synthwave Loop](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=Offensive+Security+Researcher;Bug+Bounty+Hunter;Exploit+Developer+%7C+OSED;Sandbox+Escapes+%26+Privilege+Escalation;5+CVEs+and+counting..." />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/CVEs-5-ff0033?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Certs-OSCP%2B%20%7C%20OSCP%20%7C%20OSED%20%7C%20OSWP-00ff41?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Status-Hunting-00ff41?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117" />
+</p>
 
-```text
-===================================================================
-     ____  _       ___  _  __  ___  ___    ____  ___  ____  ___ 
-    / __ \/ |     / / |/ / / / / / /   |  / __ \/   |/ __ \/   |
-   / /_/ /  | /| / / /   / / / / / / /| | / /_/ / /| / / / / /| |
-  / ____/ |/ |/ / / /| |/ /_/ / / ___ |/ _, _/ ___ / /_/ / ___ |
- /_/    |__/|__/_/_/ |_|\____/ /_/  |_/_/ |_/_/  |_\____/_/  |_|
-                                                                  
-                 [ PRESS START TO CONTINUE ]                      
-===================================================================
+---
+
+### `> whoami`
+
+```bash
+┌──(root@hacx)-[~/]
+└─# whoami
+suraj_theekshana
+
+┌──(root@hacx)-[~/]
+└─# cat profile.txt
+[+] Role      : Offensive Security Researcher / Bug Bounty Hunter
+[+] Focus     : Exploit Dev, Sandbox Escapes, LPE, Deserialization, Web & Desktop Apps
+[+] CVEs      : 5 assigned
+[+] Certs     : OSCP+ | OSCP | OSED | OSWP
+[+] Motto     : "If it runs, it can be broken."
 ```
 
-### 🎮 **SELECT CHARACTER:** `suraj@hacx`
+---
 
-</div>
+### `> cat certifications.txt`
 
-```text
-+-------------------------------------------------------------+
-| Lvl 99 Vulnerability Researcher & Exploit Developer         |
-+-------------------------------------------------------------+
-| HP:  [||||||||||||||||||||] 100%                            |
-| MP:  [||||||||||||||||||||] 100% (Caffeine Fully Charged)   |
-| EXP: [||||||||||||||||-   ] 9,999/10,000                    |
-+-------------------------------------------------------------+
-| CLASS     : Zero-Day Hunter                                 |
-| SPECIALTY : C/C++ Static Auditing, Hypervisor Escapes       |
-| ULTIMATE  : Pending...                                      |
-+-------------------------------------------------------------+
+<p align="center">
+  <a href="https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.3Pjnf68o">
+    <img src="https://img.shields.io/badge/OSCP%2B-Verified-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.45ugxeOP">
+    <img src="https://img.shields.io/badge/OSCP-Verified-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://credentials.offsec.com/c91b76bd-814f-47a3-ab27-8dc6e58e977a#acc.p4QfNU3G">
+    <img src="https://img.shields.io/badge/OSED-Verified-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.XNTxIvPm">
+    <img src="https://img.shields.io/badge/OSWP-Verified-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+| Certification | Name | Verify |
+|:--|:--|:--:|
+| **OSCP+** | OffSec Certified Professional Plus | [🔗 Credential](https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.3Pjnf68o) |
+| **OSCP** | OffSec Certified Professional | [🔗 Credential](https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.45ugxeOP) |
+| **OSED** | OffSec Exploit Developer | [🔗 Credential](https://credentials.offsec.com/c91b76bd-814f-47a3-ab27-8dc6e58e977a#acc.p4QfNU3G) |
+| **OSWP** | OffSec Wireless Professional | [🔗 Credential](https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.XNTxIvPm) |
+
+---
+
+### `> ls ./cves/`
+
+```bash
+┌──(root@hacx)-[~/cves]
+└─# ls -la
+-rwxr-xr-x  root  root   CVE-2026-77159
+-rwxr-xr-x  root  root   CVE-2026-75900
+[*] 5 CVEs total — more under coordinated disclosure 🔒
 ```
 
-<br>
+| CVE ID | Details |
+|:--|:--:|
+| **CVE-2026-77159** | [🔗 NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77159) |
+| **CVE-2026-75900** | [🔗 NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-75900) |
 
-<div align="center">
+---
 
-### 🛡️ **EQUIPPED ITEMS (CREDENTIALS)**
+### `> echo "Observed systems:"`
 
-[![OSCP+](https://img.shields.io/badge/OSCP+-Lvl_1-FF0055?style=for-the-badge&logo=linux&logoColor=FFFFFF&color=000000&borderColor=FF0055)](https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg)
-[![OSCP](https://img.shields.io/badge/OSCP-Lvl_1-FF0055?style=for-the-badge&logo=linux&logoColor=FFFFFF&color=000000&borderColor=FF0055)](https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.quvORTWt)
-[![OSWP](https://img.shields.io/badge/OSWP-Lvl_1-FF0055?style=for-the-badge&logo=wi-fi&logoColor=FFFFFF&color=000000&borderColor=FF0055)](https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.sw4pjbR7)
-[![HTB](https://img.shields.io/badge/HackTheOffshore-Completed-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF&color=000000&borderColor=FF0055)](https://hacktheoffshore.com/)
-
-</div>
-
-<br>
-
-### 👾 **BOSSES DEFEATED (BUG BOUNTY LOG)**
-
-```text
-=========================================================
-| [x] ALLIANZ            | [x] CROWDSTRIKE              |
-| [x] RED HAT+IBM (swtpm)| [x] NOKIA                    |
-| [x] DREXEL UNIVERSITY  | [x] BUGZERO                  |
-| [x] PAYHERE            | [x] HELAKURU                 |
-| [x] WSO2 / CHOREO      | [x] MSI                      |
-=========================================================
-> MORE STAGES UNLOCKING SOON...
+```bash
+┌──(root@hacx)-[~/]
+└─# ./targets --list --pwned
 ```
 
+| Category | Target | Attack Surface |
+|:--|:--|:--|
+| 🧬 **Virtualization** | libvirt | Sandbox Escape & LPE (Linux) |
+| 🔐 **Virtualization** | swtpm | Software TPM Emulator (Linux) |
+| ☁️ **Cloud** | Microsoft Azure | Deserialization |
+| 🗄️ **Database** | Oracle MySQL Connectors | Connector Security |
+| 🛡️ **Endpoint Security** | CrowdStrike Falcon | Windows Application · HackerOne |
+| 💻 **Desktop** | Helakuru | Windows Application |
+| 🏢 **Enterprise** | Allianz · Nokia · Philips · MSI | Web / Infrastructure |
+| ⚙️ **Platforms** | WSO2 · Choreo | API / Cloud Platform |
+| 💳 **Fintech** | PayHere | Payments |
+| 🎯 **Bug Bounty** | BugZero · Pornhub | Web Application |
+| 🎓 **Academia** | Drexel University | Web / Infrastructure |
 
-### 🕹️ **MULTIPLAYER CO-OP (CONTACT)**
+---
 
-```text
-> READY TO JOIN A NEW PARTY OR TACKLE A NEW RAID?
-> ESTABLISH CONNECTION BELOW:
+### `> cat arsenal.txt`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=ghidra&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/WinDbg-0d1117?style=for-the-badge&logo=windows&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/x86_Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41" />
+</p>
+
+---
+
+```bash
+┌──(root@hacx)-[~/]
+└─# exit
+[!] Connection closed. Systems were left more secure than I found them. 🖤
 ```
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&color=000000&borderColor=00FFFF)](https://www.linkedin.com/in/suraj-theekshana-10171023a/)
-
-<br><br>
-
-`[ GAME OVER? Y / N ] > N`
-<br>
-*“Stay Exploiting. Stay Learning.”*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:0d1117&height=120&section=footer" />
+</p>
