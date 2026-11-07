@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/Status-Hunting-00ff41?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117" />
 </p>
 
+<!-- 💃 Put your dancing anime GIF in the repo as assets/dance.gif -->
+<p align="center">
+  <img src="./assets/dance.gif" width="280" alt="dancing anime girl" />
+</p>
+
 ---
 
 ### `> whoami`
@@ -26,7 +31,7 @@ suraj_theekshana
 └─# cat profile.txt
 [+] Role      : Offensive Security Researcher / Bug Bounty Hunter
 [+] Focus     : Exploit Dev, Sandbox Escapes, LPE, Deserialization, Web & Desktop Apps
-[+] Kernels   : Windows (WinDbg) | Linux | iOS (XNU)
+[+] Kernels   : Windows | Linux | XNU
 [+] Arch      : x86 | x64 | ARM
 [+] CVEs      : 5 assigned
 [+] Certs     : OSCP+ | OSCP | OSED | OSWP
